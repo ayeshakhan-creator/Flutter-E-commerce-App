@@ -1,0 +1,42 @@
+name: e_commerce_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase + State Management
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.17.0
+  cloud_firestore: ^4.13.0
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/charcoal.jpg
+    - assets/images/coffee.jpg
+    - assets/images/charcoalmit.jpg
+    - assets/images/coffeerice.jpg
+    - assets/images/custom.jpg
+    - assets/images/neem.jpg
+    - assets/images/neemrice.jpg
+    - assets/images/neemzest.jpg
+    - assets/images/orange.jpg
+    - assets/images/rice.jpg
+    - assets/images/logo.jpg
