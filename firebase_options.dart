@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAKGco8lhlh-rWUhcc4sJ70KvYrTYf8BDg',
-    appId: '1:495225547524:web:4b61e62727f6ee0cb17e51',
+    apiKey: 'key',
+    appId: 'id',
     messagingSenderId: '495225547524',
     projectId: 'remed-aura-organic-store-fa690',
     authDomain: 'remed-aura-organic-store-fa690.firebaseapp.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDO_HHcTm6E3WtkSx4uY0d6VrJELs_EcYI',
-    appId: '1:495225547524:android:57b7576fea29b1aab17e51',
+    apiKey: 'key',
+    appId: 'id',
     messagingSenderId: '495225547524',
     projectId: 'remed-aura-organic-store-fa690',
     storageBucket: 'remed-aura-organic-store-fa690.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDGIcG2cg6OO8pvQ1VV7zi_s58_6lbgBdI',
-    appId: '1:495225547524:ios:198eca317757db4fb17e51',
+    apiKey: 'key',
+    appId: 'id',
     messagingSenderId: '495225547524',
     projectId: 'remed-aura-organic-store-fa690',
     storageBucket: 'remed-aura-organic-store-fa690.firebasestorage.app',
@@ -68,8 +68,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDGIcG2cg6OO8pvQ1VV7zi_s58_6lbgBdI',
-    appId: '1:495225547524:ios:198eca317757db4fb17e51',
+    apiKey: 'key',
+    appId: 'id',
     messagingSenderId: '495225547524',
     projectId: 'remed-aura-organic-store-fa690',
     storageBucket: 'remed-aura-organic-store-fa690.firebasestorage.app',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAKGco8lhlh-rWUhcc4sJ70KvYrTYf8BDg',
-    appId: '1:495225547524:web:d7e124219c7666c1b17e51',
+    apiKey: 'key',
+    appId: 'id',
     messagingSenderId: '495225547524',
     projectId: 'remed-aura-organic-store-fa690',
     authDomain: 'remed-aura-organic-store-fa690.firebaseapp.com',
